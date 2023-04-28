@@ -13,9 +13,9 @@ local discord = Key:AddSection({
 	Name = "Join discord server for Key https://discord.gg/YzRFEuAH"
 })
 
-_G.Key = "BROLETGAY))KFWwkqkfj378kfeNUDWFUJI787jNEFHWYG7jfe8wyg8YBTYE4526789N"
+_G.Key = "wjidiqwjoe3248tu8wijfw4igjwkmfjIJFWUIkaiJDIJEWGIOSOUQisojauihUHFufFHAUO"
 _G.KeyInput = "string"
-
+gayKeyforttjy = "TTJYX"
 
 
 
@@ -31,7 +31,7 @@ Key:AddTextbox({
 Key:AddButton({
 Name = "Check Key",
 Callback = function()
-if _G.KeyInput == _G.Key then
+if _G.KeyInput == _G.Key or gayKeyforttjy then
 OrionLib:MakeNotification({
 Name = "Key System",
 Content = "Key Correct",
