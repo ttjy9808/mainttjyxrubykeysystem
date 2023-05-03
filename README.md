@@ -13,7 +13,7 @@ local discord = Key:AddSection({
 	Name = "Join discord server for Key https://discord.gg/YzRFEuAH"
 })
 
-_G.Key = "HIUIEIFUOIWKFFOFFOFOFOWFFJOFKAOFOWFKAOKFOAWKFOAKFOAKFOFAKOFIITPEGVKKM"
+_G.Key = "ekwfiowfoiwkiou48fiejwjgjwoijgewgijwigj4ut8ghvhbgbambxmcvbxnbmw"
 _G.KeyInput = "string"
 
 
